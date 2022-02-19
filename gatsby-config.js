@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Linux Freelancing Training',
-    description: 'TODO',
+    title: 'OnDemand Linux HandsOn Training To Become Giant Linux Freelancer From Home',
+    description: 'We Will Mentor You To Get Your Black Belt In Freelancing Earning. We Are On A Mission To Empower Linux Freelancing Training Around The Globe To Earn Money From Home.',
     author: '@guitarwag',
     siteUrl: 'https://www.schooloffreelancing.com/',
   },
