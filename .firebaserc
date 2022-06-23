@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "freelas-d5733"
-  }
+    "default": "school-of-freelancing-72762",
+    "staging": "school-of-freelancing-72762"
+  },
+  "targets": {}
 }
