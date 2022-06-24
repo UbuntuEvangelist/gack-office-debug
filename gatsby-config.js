@@ -2,10 +2,11 @@ module.exports = {
   siteMetadata: {
     title: 'OnDemand Linux HandsOn Training To Become Giant Linux Freelancer From Home',
     description: 'We Will Mentor You To Get Your Black Belt In Freelancing Earning. We Are On A Mission To Empower Linux Freelancing Training Around The Globe To Earn Money From Home.',
-    author: '@guitarwag',
-    siteUrl: 'https://www.schooloffreelancing.com/',
+    author: '@AnythingLinux',
+    siteUrl: 'http://www.schooloffreelancing.com/',
   },
   plugins: [
+    'gatsby-plugin-netlify',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-postcss',
     'gatsby-plugin-image',
@@ -13,6 +14,7 @@ module.exports = {
       resolve: 'gatsby-plugin-create-client-paths',
       options: { prefixes: ['/sale/*'] },
     },
+
     {
       resolve: 'gatsby-source-filesystem',
       options: {

@@ -12,5 +12,23 @@
         "destination": "/index.html"
       }
     ]
+  },
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "functions": {
+    "functions": {
+      "predeploy": [],
+      "source": "functions"
+    },
+    "source": "functions"
+  },
+  "emulators": {
+    "hosting": {
+      "port": 5000
+    },
+    "ui": {
+      "enabled": true
+    }
   }
 }
