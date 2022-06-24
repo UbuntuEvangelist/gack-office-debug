@@ -20,6 +20,7 @@
     "gatsby-plugin-sharp": "^4.17.0",
     "gatsby-source-filesystem": "^4.17.0",
     "gatsby-transformer-sharp": "^4.17.0",
+    "got": "^12.1.0",
     "immer": "^9.0.15",
     "lodash": "^4.17.21",
     "multer": "^1.4.5-lts.1",
