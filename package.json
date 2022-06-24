@@ -22,6 +22,7 @@
     "gatsby-transformer-sharp": "^4.17.0",
     "immer": "^9.0.15",
     "lodash": "^4.17.21",
+    "multer": "^1.4.5-lts.1",
     "nanoid": "^4.0.0",
     "prop-types": "^15.8.1",
     "pure-react-carousel": "^1.28.1",
@@ -32,6 +33,7 @@
     "react-icons": "^4.4.0",
     "react-intl": "^6.0.4",
     "react-syntax-highlighter": "^15.5.0",
+    "request": "^2.88.2",
     "sharp": "^0.30.7",
     "shell-quote": "^1.7.3",
     "webpack": "^5.73.0"
@@ -75,5 +77,6 @@
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
-  }
+  },
+  "packageManager": "yarn@3.2.1"
 }
