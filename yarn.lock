@@ -2587,7 +2587,7 @@ __metadata:
     "@microsoft/fetch-event-source": 2.0.1
     "@types/websocket": 1.0.2
     abort-controller: 3.0.0
-    cross-fetch: 3.1.4
+    cross-fetch: 3.1.5
     extract-files: 9.0.0
     form-data: 4.0.0
     graphql-ws: ^4.4.1
@@ -2837,7 +2837,7 @@ __metadata:
   dependencies:
     "@babel/runtime": ^7.7.2
     "@jimp/utils": ^0.16.1
-    jpeg-js: 0.4.2
+    jpeg-js: 0.4.4
   peerDependencies:
     "@jimp/custom": ">=0.3.5"
   checksum: a080d3c5f510cb6b24a052e44a42d6edde9f93fa32e4eaaf4bbdae03e0063cc85ee6db3949ca1faa4eb27bf65825571db6016d80368f96d5ec469adc69897813
@@ -3882,7 +3882,7 @@ __metadata:
   version: 0.4.3
   resolution: "@pmmmwh/react-refresh-webpack-plugin@npm:0.4.3"
   dependencies:
-    ansi-html: ^0.0.7
+    ansi-html: ^0.0.8
     error-stack-parser: ^2.0.6
     html-entities: ^1.2.1
     native-url: ^0.2.6
@@ -5194,9 +5194,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ansi-html@npm:^0.0.7":
+"ansi-html@npm:^0.0.8":
   version: 0.0.7
-  resolution: "ansi-html@npm:0.0.7"
+  resolution: "ansi-html@npm:0.0.8"
   bin:
     ansi-html: ./bin/ansi-html
   checksum: 9b839ce99650b4c2d83621d67d68622d27e7948b54f7a4386f2218a3997ee4e684e5a6e8d290880c3f3260e8d90c2613c59c7028f04992ad5c8d99d3a0fcc02c
@@ -6191,7 +6191,7 @@ __metadata:
   version: 0.2.14
   resolution: "busboy@npm:0.2.14"
   dependencies:
-    dicer: 0.2.5
+    dicer: 0.3.1
     readable-stream: 1.1.x
   checksum: 9df9fca6d96dab9edd03f568bde31f215794e6fabd73c75d2b39a4be2e8b73a45121d987dea5db881f3fb499737c261b372106fe72d08b8db92afaed8d751165
   languageName: node
@@ -10107,7 +10107,7 @@ __metadata:
     fastq: ^1.13.0
     file-type: ^16.5.3
     fs-extra: ^10.1.0
-    got: ^11.8.3
+    got: ^11.8.5
     import-from: ^4.0.0
     lmdb: 2.5.2
     lock: ^1.1.0
