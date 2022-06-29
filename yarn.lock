@@ -11185,9 +11185,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"got@npm:^9.6.0":
-  version: 9.6.0
-  resolution: "got@npm:9.6.0"
+"got@npm:^11.8.5":
+  version: 11.8.5
+  resolution: "got@npm:11.8.5"
   dependencies:
     "@sindresorhus/is": ^0.14.0
     "@szmarczak/http-timer": ^1.1.2
@@ -15266,7 +15266,7 @@ __metadata:
   version: 6.5.0
   resolution: "package-json@npm:6.5.0"
   dependencies:
-    got: ^9.6.0
+    got: ^11.8.5
     registry-auth-token: ^4.0.0
     registry-url: ^5.0.0
     semver: ^6.2.0
@@ -17563,7 +17563,7 @@ __metadata:
     gatsby-plugin-sharp: ^4.17.0
     gatsby-source-filesystem: ^4.17.0
     gatsby-transformer-sharp: ^4.17.0
-    got: ^12.1.0
+    got: ^11.8.5
     immer: ^9.0.15
     lodash: ^4.17.21
     multer: ^1.4.5-lts.1
