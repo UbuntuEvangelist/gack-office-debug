@@ -8328,7 +8328,7 @@ __metadata:
     has-cors: 1.1.0
     parseqs: 0.0.6
     parseuri: 0.0.6
-    ws: ~7.4.2
+    ws: ~7.4.6
     xmlhttprequest-ssl: ~1.6.2
     yeast: 0.1.2
   checksum: 57db8792ec447e13146e13f2705cd5f2aac6ae61f71bf171d8d228cd98a3868f684499f6ae1b4abbcb1bbcf59ea9d1d1fa15f37d6b6cb861148bc6ee3e2d4fba
@@ -8354,7 +8354,7 @@ __metadata:
     cors: ~2.8.5
     debug: ~4.3.1
     engine.io-parser: ~4.0.0
-    ws: ~7.4.2
+    ws: ~7.4.6
   checksum: 3b56aa4f13eca1296fa7de631ebc503ee1c16d3b90c8c97a86f36528d6f842c2bcfc065ca65caef5ba6164b372d67c07f812b77c2572642ccd4f245680e21621
   languageName: node
   linkType: hard
@@ -13998,7 +13998,7 @@ __metadata:
     object-assign: ^4.0.1
     read-pkg-up: ^1.0.1
     redent: ^1.0.0
-    trim-newlines: ^1.0.0
+    trim-newlines: ^3.0.1
   checksum: 65a412e5d0d643615508007a9292799bb3e4e690597d54c9e98eb0ca3adb7b8ca8899f41ea7cb7d8277129cdcd9a1a60202b31f88e0034e6aaae02894d80999a
   languageName: node
   linkType: hard
@@ -14015,7 +14015,7 @@ __metadata:
     normalize-package-data: ^2.3.4
     read-pkg-up: ^3.0.0
     redent: ^2.0.0
-    trim-newlines: ^2.0.0
+    trim-newlines: ^3.0.1
   checksum: cde5539eb5bbacba01057fa8735834cbfd1cc00fd97a8ec7b1d427f0829ff1bb8f66b0a194cf213ab35ed1adba0680eb65f1aa28f6d7808c8fffaa674116a7ad
   languageName: node
   linkType: hard
@@ -18974,16 +18974,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"trim-newlines@npm:^1.0.0":
+"trim-newlines@npm:^3.0.1":
   version: 1.0.0
-  resolution: "trim-newlines@npm:1.0.0"
+  resolution: "trim-newlines@npm:3.0.1"
   checksum: ed96eea318581c6f894c0a98d0c4f16dcce11a41794ce140a79db55f1cab709cd9117578ee5e49a9b52f41e9cd93eaf3efa6c4bddbc77afbf91128b396fadbc1
   languageName: node
   linkType: hard
 
-"trim-newlines@npm:^2.0.0":
+"trim-newlines@npm:^3.0.1":
   version: 2.0.0
-  resolution: "trim-newlines@npm:2.0.0"
+  resolution: "trim-newlines@npm:3.0.1"
   checksum: 8a288a860f051f585bdda07ffb97e9e0791ca7c5c1c025b6af4badac185f2eed23ccedeb54da2a79e06ead69824d69b6c9c35c7a69c48e07ee56ac76f91c3096
   languageName: node
   linkType: hard
@@ -20124,9 +20124,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ws@npm:7.4.5":
-  version: 7.4.5
-  resolution: "ws@npm:7.4.5"
+"ws@npm:7.4.6":
+  version: 7.4.6
+  resolution: "ws@npm:7.4.6"
   peerDependencies:
     bufferutil: ^4.0.1
     utf-8-validate: ^5.0.2
@@ -20141,7 +20141,7 @@ __metadata:
 
 "ws@npm:>=7.4.6":
   version: 8.8.0
-  resolution: "ws@npm:8.8.0"
+  resolution: "ws@npm:7.4.6"
   peerDependencies:
     bufferutil: ^4.0.1
     utf-8-validate: ^5.0.2
@@ -20154,9 +20154,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ws@npm:^5.2.0 || ^6.0.0 || ^7.0.0, ws@npm:^7.2.3":
+"ws@npm:^7.4.6 || ^7.0.0 || ^8.0.0, ws@npm:^7.4.6":
   version: 7.5.8
-  resolution: "ws@npm:7.5.8"
+  resolution: "ws@npm:7.4.6"
   peerDependencies:
     bufferutil: ^4.0.1
     utf-8-validate: ^5.0.2
@@ -20169,7 +20169,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ws@npm:~7.4.2":
+"ws@npm:~7.4.6":
   version: 7.4.6
   resolution: "ws@npm:7.4.6"
   peerDependencies:
