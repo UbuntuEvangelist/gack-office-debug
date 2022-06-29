@@ -4112,9 +4112,9 @@ __metadata:
   version: 7.2.0
   resolution: "@turist/fetch@npm:7.2.0"
   dependencies:
-    "@types/node-fetch": 2
+    "@types/node-fetch": 2.6.7
   peerDependencies:
-    node-fetch: 2
+    node-fetch: 2.6.7
   checksum: a4687612027a06b3c809362d2e4088d256f8589f152eb788edec7a6df52bd79b83a97e66f8056700dbfbcd178e374e2ffa25f52dbd79aa59b7683c283fec2686
   languageName: node
   linkType: hard
@@ -4382,9 +4382,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node-fetch@npm:2":
-  version: 2.6.2
-  resolution: "@types/node-fetch@npm:2.6.2"
+"@types/node-fetch@npm:2.6.7":
+  version: 2.6.7
+  resolution: "@types/node-fetch@npm:2.6.7"
   dependencies:
     "@types/node": "*"
     form-data: ^3.0.0
@@ -7326,7 +7326,7 @@ __metadata:
   version: 3.1.5
   resolution: "cross-fetch@npm:3.1.5"
   dependencies:
-    node-fetch: 2.6.1
+    node-fetch: 2.6.7
   checksum: 2107e5e633aa327bdacab036b1907c7ddd28651ede0c1d4fd14db04510944d56849a8255e2f5b8f9a1da0e061b6cee943f6819fe29ed9a130195e7fadd82a4ff
   languageName: node
   linkType: hard
@@ -10076,7 +10076,7 @@ __metadata:
     joi: ^17.4.2
     lodash: ^4.17.21
     meant: ^1.0.3
-    node-fetch: ^2.6.6
+    node-fetch: ^2.6.7
     opentracing: ^0.14.5
     pretty-error: ^2.1.2
     progress: ^2.0.3
