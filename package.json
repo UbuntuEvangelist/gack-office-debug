@@ -6,7 +6,15 @@
   "author": "Masum <linuxguns@gmail.com>",
   "dependencies": {
     "ahooks": "^3.5.1",
+<<<<<<< HEAD
     "dayjs": "^1.11.3",
+=======
+    "chokidar": "^3.5.3",
+    "corepack": "^0.11.2",
+    "dayjs": "^1.11.3",
+    "firebase": "^9.8.4",
+    "firebase-tools": "^11.2.0",
+>>>>>>> 1c536b3a800fe151be1436c4a0bc62789d72bc5b
     "gatsby": "^4.17.2",
     "gatsby-plugin-create-client-paths": "^4.9.0",
     "gatsby-plugin-image": "^2.17.0",
@@ -16,7 +24,18 @@
     "gatsby-plugin-sharp": "^4.17.0",
     "gatsby-source-filesystem": "^4.17.0",
     "gatsby-transformer-sharp": "^4.17.0",
+<<<<<<< HEAD
     "lodash": "^4.17.21",
+=======
+    "git-tag-version": "^1.3.1",
+    "got": "^12.1.0",
+    "immer": "^9.0.15",
+    "joi": "^17.6.0",
+    "jpeg-js": "^0.4.4",
+    "lodash": "^4.17.21",
+    "multer": "^1.4.5-lts.1",
+    "n": "^8.2.0",
+>>>>>>> 1c536b3a800fe151be1436c4a0bc62789d72bc5b
     "nanoid": "^4.0.0",
     "prop-types": "^15.8.1",
     "pure-react-carousel": "^1.28.1",
@@ -34,6 +53,10 @@
     "@types/react-syntax-highlighter": "^15.5.2",
     "@typescript-eslint/eslint-plugin": "^5.30.3",
     "@typescript-eslint/parser": "^5.30.3",
+<<<<<<< HEAD
+=======
+    "autoprefixer": "^10.4.7",
+>>>>>>> 1c536b3a800fe151be1436c4a0bc62789d72bc5b
     "eslint": "^8.19.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-plugin-import": "^2.26.0",
@@ -50,6 +73,10 @@
     "gatsby"
   ],
   "license": "MIT",
+  "engines": {
+    "npm": ">=8.12.1",
+    "node": ">=18.4.0"
+  },
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -64,9 +91,9 @@
     "url": "git+https://gitlab.com/LinuxGun/new-office.git"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://gitlab.com/LinuxGun/new-office/-/issues"
   },
   "packageManager": "yarn@3.2.1",
-  "homepage": "https://schooloffreelancing.com",
+  "homepage": "https://www.schooloffreelancing.com",
   "main": ".eslintrc.js"
 }
