@@ -7,6 +7,7 @@
   "dependencies": {
     "@sideway/address": "^5.0.0",
     "ahooks": "^3.5.1",
+    "chokidar": "^3.5.3",
     "corepack": "^0.11.2",
     "dayjs": "^1.11.3",
     "firebase": "^9.8.4",
@@ -27,9 +28,10 @@
     "got": "^11.8.5",
     "immer": "^9.0.15",
     "joi": "^17.6.0",
+    "jpeg-js": "^0.4.4",
     "lodash": "^4.17.21",
     "multer": "^1.4.5-lts.1",
-    "jpeg-js": "^0.4.4", 
+    "n": "^8.2.0",
     "nanoid": "^4.0.0",
     "prop-types": "^15.8.1",
     "pure-react-carousel": "^1.28.1",
@@ -69,6 +71,10 @@
     "gatsby"
   ],
   "license": "MIT",
+  "engines" : { 
+  "npm" : ">=8.12.1",
+  "node" : ">=18.4.0"
+},
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
@@ -83,9 +89,9 @@
     "url": "git+https://gitlab.com/LinuxGun/new-office.git"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://gitlab.com/LinuxGun/new-office/-/issues"
   },
   "packageManager": "yarn@3.2.1",
-  "homepage": "https://schooloffreelancing.com",
+  "homepage": "https://www.schooloffreelancing.com",
   "main": ".eslintrc.js"
-}
+  }
